@@ -6,7 +6,7 @@ import jakarta.faces.model.SelectItem;
 import jakarta.faces.view.ViewScoped;
 import jakarta.inject.Inject;
 import jakarta.inject.Named;
-
+import ma.emsi.lahjaily.tp2lahjaily_web.llm.LlmClient;
 
 
 import java.io.Serializable;
